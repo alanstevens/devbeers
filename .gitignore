@@ -3,3 +3,7 @@
 **.orig
 *.DS_Store
 .idea/
+*-cache
+node_modules
+dist
+*.map

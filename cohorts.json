@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Downtown",
+    "hash": "downtown",
+    "location": {
+      "name": "Merchants of Beer",
+      "website": "https://www.mobknox.com/",
+      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3229.109718993968!2d-83.92201608473327!3d35.968742930128236!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x885c17cf6e526831%3A0xe52683466c5b9879!2sMerchants%20Of%20Beer!5e0!3m2!1sen!2sus!4v1654804173171!5m2!1sen!2sus"
+    }
+  },
+  {
+    "name": "Hardin Valley",
+    "hash": "hardin-valley",
+    "location": {
+      "name": "The Casual Pint",
+      "website": "https://hardin-valley.thecasualpint.com/",
+      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3229.823555924844!2d-84.15909968443206!3d35.951286022720545!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x885c31d8fd90c553%3A0x544545b66b05384!2sThe%20Casual%20Pint%20Hardin%20Valley!5e0!3m2!1sen!2sus!4v1654875182704!5m2!1sen!2sus"
+    }
+  }
+]

@@ -2,10 +2,11 @@
   "name": "devbeers",
   "version": "1.0.0",
   "description": "Knoxville DevBeers website",
-  "main": "index.js",
+  "source": "index.html",
+  "browserslist": "> 0.5%, last 2 versions, not dead",
   "scripts": {
-    "watch": "parcel index.html",
-    "build": "parcel build scripts/index.js"
+    "watch": "parcel",
+    "build": "parcel build"
   },
   "repository": {
     "type": "git",

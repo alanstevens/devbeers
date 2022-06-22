@@ -2,6 +2,9 @@
   {
     "name": "Downtown",
     "hash": "downtown",
+    "calendar": {
+      "id": "8nfi6gevb6nirhss4apjvq5tc8@group.calendar.google.com",
+    },
     "location": {
       "name": "Merchants of Beer",
       "website": "https://www.mobknox.com/",
@@ -11,6 +14,9 @@
   {
     "name": "Hardin Valley",
     "hash": "hardin-valley",
+    "calendar": {
+      "id": "54n8vb69dmlcjii5gef21m2lv0@group.calendar.google.com",
+    },
     "location": {
       "name": "The Casual Pint",
       "website": "https://hardin-valley.thecasualpint.com/",

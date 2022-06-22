@@ -1,9 +1,6 @@
 import cohorts from './cohorts.json'
 import { Selectors, Info } from './components'
 
-// TODO:
-// 2. set up/query an actual public calendar for each cohort instead of cronning this
-
 // add components to the DOM
 const container = document.getElementById('cohorts')
 const selectors = new Selectors(cohorts)

@@ -1,0 +1,28 @@
+{
+  "name": "devbeers",
+  "version": "1.0.0",
+  "description": "Knoxville DevBeers website",
+  "source": "index.html",
+  "browserslist": "> 0.5%, last 2 versions, not dead",
+  "scripts": {
+    "watch": "parcel",
+    "build": "parcel build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alanstevens/devbeers.git"
+  },
+  "bugs": {
+    "url": "https://github.com/alanstevens/devbeers/issues"
+  },
+  "contributors": [
+    "Alan Stevens",
+    "Alex Pearson"
+  ],
+  "license": "ISC",
+  "homepage": "https://devbeers.com",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.6.0",
+    "parcel": "^2.6.0"
+  }
+}

@@ -12,15 +12,15 @@
     }
   },
   {
-    "name": "Hardin Valley",
-    "hash": "hardin-valley",
+    "name": "West",
+    "hash": "west",
     "calendar": {
       "id": "54n8vb69dmlcjii5gef21m2lv0@group.calendar.google.com",
     },
     "location": {
-      "name": "The Casual Pint",
-      "website": "https://hardin-valley.thecasualpint.com/",
-      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3229.823555924844!2d-84.15909968443206!3d35.951286022720545!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x885c31d8fd90c553%3A0x544545b66b05384!2sThe%20Casual%20Pint%20Hardin%20Valley!5e0!3m2!1sen!2sus!4v1654875182704!5m2!1sen!2sus"
+      "name": "Crafty Bastard Brewary West",
+      "website": "https://www.craftybastardbrewery.com/crafty-west-homepage",
+      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3231.7233057141502!2d-84.1146315!3d35.904791800000005!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x885c2f6fd8fd12e5%3A0x8a03cea5a4b2dfd4!2sCrafty%20Bastard%20Brewery%20West!5e0!3m2!1sen!2sus!4v1668540023894!5m2!1sen!2sus"
     }
   }
 ]
